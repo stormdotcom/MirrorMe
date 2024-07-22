@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# MirrorMe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**MirrorMe** is an open-source screen mirroring desktop app designed to provide seamless and efficient screen sharing across multiple devices. Whether you're giving a presentation, collaborating with colleagues, or simply sharing content with friends and family, MirrorMe makes it easy and intuitive.
 
-## Available Scripts
+### Key Features:
 
-In the project directory, you can run:
+- **Real-Time Mirroring**: Experience lag-free screen sharing with real-time updates.
+- **Cross-Platform Support**: Compatible with Windows, macOS, and Linux, making it accessible to a wide range of users.
+- **User-Friendly Interface**: Simple and intuitive design ensures anyone can start mirroring with just a few clicks.
+- **Open-Source Community**: Built by and for the community, MirrorMe welcomes contributions and feedback to continuously improve and add new features.
+- **Secure Connection**: Ensures your data remains safe and private during the mirroring process.
+- **Customizable Settings**: Tailor the app to your specific needs with adjustable settings and preferences.
 
-### `npm start`
+### Use Cases:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Presentations**: Share your screen with an audience effortlessly, enhancing your presentations with dynamic visuals.
+- **Remote Collaboration**: Work together with team members by sharing your screen during remote meetings and collaborative sessions.
+- **Education**: Teachers can share their screens with students to enhance remote and in-person learning experiences.
+- **Entertainment**: Stream videos, games, and other media content from your computer to larger screens for a better viewing experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Join the **MirrorMe** community today and transform the way you share and collaborate on your screens!
